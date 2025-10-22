@@ -1,8 +1,8 @@
-*# Hi! 👋 I'm Ant1Idis*
+# Hi! 👋 I'm Ant1Idis
 
 *💡 Beginner Python developer with an interest in Backend development.*
 
-*## 🔧 Мои Hard Skills:*
+## 🔧 Мy Hard Skills:
 
 - *Python, OOP, algorithms*
 - *Telegram, pyrogram*
