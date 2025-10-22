@@ -1,16 +1,15 @@
-## Hi there 👋
+*# Hi! 👋 I'm Ant1Idis*
 
-<!--
-**Ant1Idis/Ant1Idis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*💡 Beginner Python developer with an interest in Backend development.*
 
-Here are some ideas to get you started:
+*## 🔧 Мои Hard Skills:*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Python, OOP, algorithms*
+- *Telegram, pyrogram*
+- *PyGame*
+- *Flask, REST API*
+- *SQLite*
+
+*## 📌 My Projects:*
+
+- To see my project, go ahead and check the other repositories!
