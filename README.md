@@ -10,6 +10,6 @@
 - *Flask, REST API*
 - *SQLite*
 
-*## 📌 My Projects:*
+## 📌 My Projects:
 
 - To see my project, go ahead and check the other repositories!
